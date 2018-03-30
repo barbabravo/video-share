@@ -1,0 +1,14 @@
+wx:
+  AppID: wxsdfsdfdsfdsf  //随便写的，需要更换为正确数据
+  AppSecret: 03eec3d132sdfsdfsdfsdfbbb01ad2  ////随便写的，需要更换为正确数据
+  nonceStr: 1A@#$a3n
+
+server:
+  port: 8080
+
+template_update_delay: 0
+spring:
+  freemarker:
+    cache: false
+    settings:
+      template_update_delay: 0
